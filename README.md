@@ -1,4 +1,4 @@
-# BCA_NES 
+# BCA NES 
 Variant of the B-cell algorithm (BCA) in comparison to Andrej Karpathy's NES code for reinforcement learning
 
 ## B-cell algorithm applied to NES problem as inspired by Andrej Karpathy 
